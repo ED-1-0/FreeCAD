@@ -101,6 +101,4 @@ The [FreeCAD forum](http://forum.freecadweb.org) is also a great place
 to find help and solve specific problems you might encounter when
 learning to use FreeCAD.
 
-FreeCAD Nuclear Node Contributer
-Aung Kyaw
 # FreeCAD
